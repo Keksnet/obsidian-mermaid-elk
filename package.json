@@ -1,7 +1,7 @@
 {
 	"name": "obsidian-mermaid-elk",
 	"version": "1.0.0",
-	"description": "Obsidian plugin to re-enable support for the elk renderer in obsidian.",
+	"description": "Obsidian plugin to re-enable the elk renderer in Mermaid diagrams.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",

@@ -12,3 +12,7 @@ config:
 ```
 
 Have fun!
+
+## Credits
+This plugin strongly depends on [@mermaid-js/layout-elk](https://github.com/mermaid-js/mermaid).
+Please support that project if you like it.
