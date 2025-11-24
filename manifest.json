@@ -1,7 +1,7 @@
 {
 	"id": "mermaid-elk",
 	"name": "Mermaid ELK",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"minAppVersion": "1.10.3",
 	"description": "Brings back the elk (Eclipse Layout Kernel) renderer for Mermaid diagrams.",
 	"author": "Marlon Pohl",

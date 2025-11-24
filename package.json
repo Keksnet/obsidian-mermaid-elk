@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-mermaid-elk",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "Obsidian plugin to re-enable the elk renderer in Mermaid diagrams.",
 	"main": "main.js",
 	"scripts": {
